@@ -97,7 +97,7 @@ function mouseDragged(){
 
 //create mouseReleased function here
 function mouseReleased(){
-  stoneObj.fly();
+  launcher.fly();
 }
 
 //create keyPressed function here
